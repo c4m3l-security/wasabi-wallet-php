@@ -15,3 +15,6 @@ $rpc->selectWallet('test');
 echo $rpc->getNewAddress('label');
 ?>
 ```
+
+# Configuration
+https://docs.wasabiwallet.io/using-wasabi/RPC.html#configure-rpc
